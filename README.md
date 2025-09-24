@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 <div align="center">
-  <a href="https://healthinfoservices.site/fhir-links"><img src="docimg/logo.ico" alt="ARF Logo" width="80" height="80"></a>
+  <a href="https://healthinfoservices.site/fhir-links"><img src="../images/logo extended.png"></a>
   <h2> Useful Links for FHIR Developers</h2>
 </div>
 
@@ -16,3 +16,6 @@
 
 ## FSH Development
 Useful links for FHIR development
+
+### More Advanced Topics
+[AdvancedFSH covers slicing and other more advanced topics](https://www.devdays.com/wp-content/uploads/2023/08/230609_ChrisMoesel_AdvancedFSH.pdf)
