@@ -4,9 +4,6 @@
   <h2> Useful Links for FHIR Developers</h2>
 </div>
 
-# Useful Links for FHIR Developers
-Useful links for FHIR development
-
 ## Implementation Guide Development
 
 ### Profiling
