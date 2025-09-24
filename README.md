@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 <div align="center">
-  <a href="https://healthinfoservices.site/fhir-links"><img src="../images/logo extended.png"></a>
+  <a href="https://healthinfoservices.site/fhir-links"><img src="https://healthinfoservices.site/images/logo extended.png"></a>
   <h2> Useful Links for FHIR Developers</h2>
 </div>
 
