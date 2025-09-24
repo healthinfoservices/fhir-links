@@ -24,14 +24,14 @@ Useful links for FHIR development
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
   
 ### Other Tools
-* [FSH Online - Web tool for FSH <-> Json structure conversion]()
+* [FSH Online - Web tool for FSH <-> Json structure conversion](https://fshonline.fshschool.org/)
 * [GoFSH convert existing IG to FSH](https://fshschool.github.io/docs/gofsh/)
 * [AdvancedFSH covers slicing and other more advanced topics](https://www.devdays.com/wp-content/uploads/2023/08/230609_ChrisMoesel_AdvancedFSH.pdf)
 
 ## Implementation Guides
 * [FHIR IG R5](https://hl7.org/fhir/)
-* [AU Base - derived from R4]()
-* [AU Core - derived from R4]()
+* [AU Base - derived from R4](https://hl7.org.au/fhir/)
+* [AU Core - derived from R4](https://hl7.org.au/fhir/core/)
 * [FHIR R4](https://hl7.org/fhir/R4/)
 * [mCODE minimal Common Oncology Data Elements IG](https://build.fhir.org/ig/HL7/fhir-mCODE-ig)
 
