@@ -1,0 +1,16 @@
+{
+  "resourceType": "Device",
+  "id": "fever-cds",
+  "deviceName": [
+    {
+      "name": "Fever CDS Engine",
+      "type": "user-friendly-name"
+    }
+  ],
+  "manufacturer": "Health Info Services",
+  "version": [
+    {
+      "value": "1.0.0"
+    }
+  ]
+}

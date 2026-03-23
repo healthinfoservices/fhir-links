@@ -1,0 +1,38 @@
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [
+      {
+        "system": "http://snomed.info/sct",
+        "code": "386661006",
+        "display": "Fever (finding)"
+      }
+    ],
+    "text": "Fever present"
+  },
+  "subject": {
+    "reference": "Patient/????"
+  },
+  "effectiveDateTime": "2026-03-27T12:00:00",
+  "valueBoolean": false,
+  "interpretation": [
+    {      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+          "code": "N",
+          "display": "Normal"
+        }
+      ],
+      "text": "No fever"
+    }
+  ],
+  "derivedFrom": [
+    {
+      "reference": "Observation/????"
+    }
+  ],
+  "method": {
+    "text": "Derived from body temperature using threshold ≥ 38.0 °C"
+  }
+}
