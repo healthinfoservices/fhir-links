@@ -1,0 +1,45 @@
+{
+  "resourceType": "ServiceRequest",
+  "status": "active",
+  "intent": "order",
+  "priority": "routine",
+  "code": {
+    "coding": [
+      {
+        "system": "http://snomed.info/sct",
+        "code": "427247008",
+        "display": "Hearing assessment (procedure)"
+      }
+    ],
+    "text": "Hearing assessment (procedure)"
+  },
+  "subject": {
+    "reference": "Patient/????"
+  },
+  "requester": {
+    "reference": "Practitioner/????"
+  },
+  "performer": [
+    {
+      "reference": "Organization/audiology-clinic"
+    }
+  ],
+  "reasonCode": [
+    {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "15188001",
+          "display": "Hearing loss"
+        }
+      ]
+    }
+  ],
+  "occurrenceDateTime": "2026-03-27T12:00:00",
+  "authoredOn": "2026-03-27T11:55:00",
+  "note": [
+    {
+      "text": "Request for pure tone audiometry testing and evaluation"
+    }
+  ]
+}

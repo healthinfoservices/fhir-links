@@ -1,0 +1,29 @@
+{
+  "resourceType": "Organization",
+  "id": "audiology-clinic",
+  "name": "North Queensland Audiology Clinic",
+  "telecom": [
+    {
+      "system": "phone",
+      "value": "+61 7 3123 4567",
+      "use": "work"
+    },
+    {
+      "system": "email",
+      "value": "info@nqaudiology.com.au",
+      "use": "work"
+    }
+  ],
+  "type": [
+    {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "310171006",
+          "display": "Audiology service"
+        }
+      ],
+      "text": "Audiology service"
+    }
+  ]
+}
