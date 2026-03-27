@@ -22,7 +22,10 @@
 
 ### Testing/Free FHIR Servers
 * [Meld Free Servers with example data](https://meld.interop.community/)
+* [HAPI](http://hapi.fhir.org/baseR4)
 * [Free server options](https://darrendevitt.com/testing-fhir-the-3-options/)
+* [HAPI Docker - local](https://hub.docker.com/r/hapiproject/hapi)
+* [Firely](https://server.fire.ly)
   
 ### Other Tools
 * [FSH Online - Web tool for FSH <-> Json structure conversion](https://fshonline.fshschool.org/)
