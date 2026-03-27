@@ -19,6 +19,10 @@
 ### Cheat Sheets
 * [FSH Cheat Sheet](https://build.fhir.org/ig/HL7/fhir-shorthand/FSHQuickReference.pdf)
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+### Testing/Free FHIR Servers
+* [Meld Free Servers with example data](https://meld.interop.community/)
+* [Free server options](https://darrendevitt.com/testing-fhir-the-3-options/)
   
 ### Other Tools
 * [FSH Online - Web tool for FSH <-> Json structure conversion](https://fshonline.fshschool.org/)
